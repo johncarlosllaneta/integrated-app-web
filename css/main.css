@@ -1,0 +1,74 @@
+body{
+    margin-top: 0;
+    margin-right: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background: url(/images/classroom_bg.svg);
+    background-repeat: no-repeat;
+    /* width: 10px; */
+    background-size: 100%;
+}
+div.board{
+    float: left;
+    height: 55%;
+    width: 45%;
+}
+.board{
+   max-width: 110%;
+   max-height: 100%;
+}
+.progress{
+    margin: 60px auto;
+    margin-right: -8%;
+    float: right;
+    height: 55%;
+    width: 50%;
+}
+.subject{
+    max-width: 100%;
+    max-height: 100%;
+}   
+.subject:hover{
+    transform:  translate(-15%);
+    transition: 1s;
+}
+.account{
+    max-width: 100%;
+   max-height: 100%;
+}
+.account:hover{
+    transform:  translate(-15%);
+    transition:  1s;
+}
+.results{
+    max-width: 100%;
+   max-height: 100%;
+}
+.results:hover{
+    transform:  translate(-15%);
+    transition:  1s;
+}
+.mini{
+    max-width: 100%;
+   max-height: 100%;
+}
+.mini:hover{
+    transform:  translate(-15%);
+    transition:  1s;
+}
+.themes{
+    max-width: 100%;
+   max-height: 100%;
+}
+.themes:hover{
+    transform:  translate(-15%);
+    transition:  1s;
+}
+.settings{
+    max-width: 100%;
+   max-height: 100%;
+}
+.settings:hover{
+    transform:  translate(-15%);
+    transition:  1s;
+}

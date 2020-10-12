@@ -1,0 +1,184 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.body-eng {
+    background-color: #84cbce;
+}
+
+.body-fil {
+    background-color: #c4a480;
+}
+
+.body-math {
+    background-color: #9ccf79;
+}
+
+.body-sci {
+    background-color: #b791d1;
+}
+
+a:hover {
+    color: #e7e7e7;
+    text-decoration: none;
+}
+
+/* change the background color */
+.navbar-eng {
+    padding: 10px;
+    color: white;
+    background-color: #38a2cc;
+}
+
+.navbar-fil {
+    padding: 10px;
+    color: white;
+    background-color: #8d5a18;
+}
+
+.navbar-math {
+    padding: 10px;
+    color: white;
+    background-color: #64A23A;
+}
+
+.navbar-sci {
+    padding: 10px;
+    color: white;
+    background-color: #995faf;
+}
+
+/* change the brand and text color */
+.navbar-brand {
+    font-family: 'Segoe UI', sans-serif;
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-left: 37%;
+}
+
+.navbar-back {
+    font-family: 'Segoe UI,', sans-serif;
+    color: white;
+    margin: auto;
+    font-size: 2.5rem;
+    font-weight: bold;
+    border: none;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 34px;
+    border-style: solid;
+}
+
+.right {
+    text-align: right;
+    float: right;
+}
+
+/* navigation back button color */
+.eng{
+    background-color: #3085a7;
+}
+
+.fil{
+    background-color: #6d4613;
+}
+
+.math{
+    background-color: #4e852a;
+}
+
+.sci{
+    background-color: #613870;
+}
+
+
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:focus .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+}
+
+.container-eng {
+    position: relative;
+    background-color: #3a7f9b;
+    width: 70%;
+    height: 100%;
+    border-radius: 30px;
+    padding: 20px;
+    padding-left: 40px;
+    margin: auto;
+    top: 150px;
+    margin-bottom: 50px;
+}
+
+.container-fil {
+    position: relative;
+    background-color: #99815f;
+    width: 70%;
+    height: 100%;
+    border-radius: 30px;
+    padding: 20px;
+    padding-left: 40px;
+    margin: auto;
+    top: 150px;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+
+.container-math {
+    position: relative;
+    background-color: #72b148;
+    width: 70%;
+    height: 100%;
+    border-radius: 30px;
+    padding: 20px;
+    padding-left: 40px;
+    margin: auto;
+    top: 150px;
+    margin-bottom: 50px;
+}
+
+.container-sci {
+    position: relative;
+    background-color: #723b86;
+    width: 70%;
+    height: 100%;
+    border-radius: 30px;
+    padding: 20px;
+    padding-left: 40px;
+    margin: auto;
+    top: 150px;
+    margin-bottom: 50px;
+}
+
+.image {
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+}
+
+.column-desc {
+    padding: 20px;
+    padding-left: 10px;
+    width: 60%;
+}
+
+h1 {
+    color: white;
+    text-transform: uppercase;
+}
+
+h3 {
+    color: white;
+}
+
+hr {
+    border: 1px solid #ffffff;
+}

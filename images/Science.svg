@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="117" viewBox="0 0 900 117">
+  <defs>
+    <filter id="LESSONS" x="300" y="5" width="300" height="108" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Lessons-2" data-name="Lessons" transform="translate(-29.662 -48.148)">
+    <rect id="Rectangle_384" data-name="Rectangle 384" width="900" height="117" rx="58.5" transform="translate(29.662 48.148)" fill="#d8d7d7"/>
+    <path id="Path_763" data-name="Path 763" d="M40.236,0H833.159C855.381,0,873.4,20.174,873.4,45.06s-18.014,45.06-40.236,45.06H40.236C18.014,90.12,0,69.946,0,45.06S18.014,0,40.236,0Z" transform="translate(43.379 61.757)" fill="#504b4b"/>
+    <g transform="matrix(1, 0, 0, 1, 29.66, 48.15)" filter="url(#LESSONS)">
+      <text id="LESSONS-3" data-name="LESSONS" transform="translate(450 83)" fill="#fff" stroke="#fff" stroke-width="2" font-size="65" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-138.887" y="0">LESSONS</tspan></text>
+    </g>
+  </g>
+</svg>

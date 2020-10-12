@@ -1,0 +1,142 @@
+body,
+html {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+     overflow-y: hidden;
+}
+
+/* background image */
+.body-fil {
+    background-image: url("/images/Filipino-BG.svg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body-eng {
+    background-image: url("/images/Math-BG.svg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body-math {
+    background-image: url("/images/English-BG.svg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body-sci {
+    background-image: url("/images/Science-BG.svg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a:hover {
+    color: #e7e7e7;
+    text-decoration: none;
+}
+
+/* change the background color */
+.navbar-eng {
+    background-color: #38a2cc;
+    padding: 10px;
+    color: white;
+}
+
+.navbar-fil {
+    background-color: #8d5a18;
+    padding: 10px;
+    color: white;
+}
+
+.navbar-math {
+    background-color: #4e852a;
+    padding: 10px;
+    color: white;
+}
+
+.navbar-sci {
+    background-color: #995faf;
+    padding: 10px;
+    color: white;
+}
+
+/* change the brand and text color */
+.navbar-brand {
+    font-family: 'Segoe UI,', sans-serif;
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-left: 45%;
+}
+
+.navbar-back {
+    font-family: 'Segoe UI,', sans-serif;
+    color: white;
+    margin: auto;
+    font-size: 2.5rem;
+    font-weight: bold;
+    border: none;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 34px;
+    border-style: solid;
+}
+
+.right {
+    text-align: right;
+    float: right;
+}
+
+/* navigation back button color */
+.eng {
+    background-color: #3085a7;
+}
+
+.fil {
+    background-color: #6d4613;
+}
+
+.math {
+    background-color: #4e852a;
+}
+
+.sci {
+    background-color: #613870;
+}
+
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:focus .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+}
+
+.container {
+    padding: 20px;
+    margin: 0 auto;
+}
+
+video {
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 90px;
+}
+
+.container video {
+    display: flex;
+    justify-content: center;
+}

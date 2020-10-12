@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1570.5" height="169.5" viewBox="0 0 1570.5 169.5">
+  <g id="pencil_accounts" transform="translate(-713.154 -212.5)">
+    <g id="Group_12" data-name="Group 12" transform="translate(-50.846 -1)">
+      <path id="Polygon_2" data-name="Polygon 2" d="M84.5,0,169,263H0Z" transform="translate(2334.5 213.5) rotate(90)" fill="#e6aa5c"/>
+      <path id="Path_303" data-name="Path 303" d="M29.532-20.959,61,77H-2.374Z" transform="translate(2312.5 268.5) rotate(90)" fill="#333231"/>
+    </g>
+    <rect id="Rectangle_39" data-name="Rectangle 39" width="1203" height="168" transform="translate(817.154 214)" fill="#ffdf77"/>
+    <path id="Rectangle_40" data-name="Rectangle 40" d="M50,0H158a0,0,0,0,1,0,0V168a0,0,0,0,1,0,0H50A50,50,0,0,1,0,118V50A50,50,0,0,1,50,0Z" transform="translate(713.154 214)" fill="#f66363"/>
+    <rect id="Rectangle_41" data-name="Rectangle 41" width="63" height="167" transform="translate(941.154 215)" fill="#f0efef"/>
+    <path id="Path_13" data-name="Path 13" d="M-50.351,0H63V167.53H22.983s1-48.9-17.333-90.779S-50.351,0-50.351,0Z" transform="translate(808 214)" fill="#e33b3b"/>
+    <rect id="Rectangle_42" data-name="Rectangle 42" width="1150" height="84" transform="translate(871.154 298)" opacity="0.16"/>
+    <text id="ACCOUNTS" transform="translate(1184.154 328)" font-size="100" font-family="Bahnschrift"><tspan x="0" y="0">ACCOUNTS</tspan></text>
+    <path id="Path_309" data-name="Path 309" d="M0,0H262L212.476,16.334,0,84Z" transform="translate(2021.154 297)" opacity="0.16"/>
+  </g>
+</svg>

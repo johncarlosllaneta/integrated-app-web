@@ -1,0 +1,59 @@
+body{
+    margin: 0px;
+    overflow-x: hidden;
+}
+#pics1{
+    height: 130px;
+  }
+.btn_back{
+  top: 20px;
+  margin-top: 20px;
+  margin-right: 30px;
+  height: 60px;
+  border-radius: 45px;
+  border-width: 7px;
+  border-color: #704915;
+  background-color: #0A3400;
+  border-style: solid;
+  color: white;
+  width: 180px;
+  font-size: 30px;
+  float: right;
+  font-family: 'Segoe UI';
+  font-weight: bold;
+  position: sticky;
+  z-index: 1;
+}
+.math{
+  margin-left: -9%;
+  margin-top: -50px;
+}
+
+.container{
+    height: 1500px;
+    width: 100%;
+    background-image: url("/images/Math\ Bg.svg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+  .topics{
+    margin: auto;
+    width: 75%;
+    padding: 30px;
+  }
+  .pics {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+  }
+  .pics:hover, .pics:focus, .pics:active {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }

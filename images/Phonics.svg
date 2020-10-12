@@ -1,0 +1,70 @@
+<svg id="Phonics" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840.318" height="170.061" viewBox="0 0 840.318 170.061">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_753" data-name="Path 753" d="M19175.682,6997.91s18.279-27.763,45.814-31.154,29.688,3.574,62.307,2.932,68.174-5.5,68.174-5.5l-27.49-45.081s-166.4,22.724-167.865,21.258Z" transform="translate(-19156.621 -6919.109)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_756" data-name="Path 756" d="M19447.576,6913.076s14.9-6.107,37.7-8.856c10.625-1.281,25.186,4.686,35.553,4.457,11.416-.252,17.957-6.6,17.957-6.6-.365.366-9.16-14.294-8.795-14.294h-82.418Z" transform="translate(-19447.576 -6887.786)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_753-2" data-name="Path 753" d="M19302.566,6970.135s-15.135-17.979-37.928-20.173-24.576,2.313-51.58,1.9-56.437-3.559-56.437-3.559l22.758-29.192s137.75,14.715,138.965,13.765Z" transform="translate(-19156.621 -6919.108)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Path_756-2" data-name="Path 756" d="M19499.979,6905.4a78.764,78.764,0,0,0-21.662-6.17c-6.1-.892-14.467,3.265-20.422,3.105a14.856,14.856,0,0,1-10.318-4.6c.209.255,5.264-9.958,5.055-9.958h47.348Z" transform="translate(-19447.576 -6887.786)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Path_759" data-name="Path 759" d="M19277.553,7011.834c7.76-2.408,10.355,10.851,14.506,11.065,6.2.317,6.715-9.455,11.152-11.065s5.865,4.992,6.6,4.625,9.9-2.2,10.631-2.565,0-16.493,0-16.493h-42.887Z" transform="translate(-19277.553 -6997.401)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <path id="Path_762" data-name="Path 762" d="M19303.254,7002.525s1.508,1.7,16.684,2.7,28.49-4.106,44.018,1.283,12.158,8.95,21.943,11.935,16.939.128,17.2,0-8.084-23.87-8.084-23.87l-90.984-1.668Z" transform="translate(-19303.254 -6992.9)" fill="none"/>
+    </clipPath>
+    <filter id="Phonics_and_Word_Recognition" x="96.379" y="53.669" width="674" height="82" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Block" transform="translate(0 0)">
+    <g id="box" transform="translate(34.361 50.086)">
+      <rect id="Rectangle_384" data-name="Rectangle 384" width="792" height="94" rx="47" transform="translate(0.018 -0.417)" fill="#2fbfd7"/>
+      <rect id="Rectangle_385" data-name="Rectangle 385" width="769" height="71" rx="35.5" transform="translate(11.018 11.583)" fill="#1d9cad"/>
+    </g>
+    <g id="snow">
+      <path id="Path_751" data-name="Path 751" d="M9.238,8.956c15.64-5.781,38.014-21.016,61.321-22.3,18.707-1.03,31.305,10.4,48.315,15.485,15.136,4.522,35.1,2.461,43.976,6.813C193.5,23.988,139.315,24.441,118.874,23.2c-9.934-.6-55.7,13.064-85.431,9.347-22.675,1.573-6.229,56.076-16.126,53.877S-30.559,23.667,9.238,8.956Z" transform="translate(26.378 32.527)" fill="#aaf0f9"/>
+      <g id="Mask_Group_13" data-name="Mask Group 13" transform="translate(0)" clip-path="url(#clip-path)">
+        <path id="Path_752" data-name="Path 752" d="M9.238,8.956c15.64-5.781,38.014-21.016,61.321-22.3,18.707-1.03,31.305,10.4,48.315,15.485,15.136,4.522,35.1,2.461,43.976,6.813C193.5,23.988,139.315,24.441,118.874,23.2c-9.934-.6-55.7,13.064-85.431,9.347-22.675,1.573-6.229,56.076-16.126,53.877S-30.559,23.667,9.238,8.956Z" transform="translate(25.598 31.746)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="snow-2" data-name="snow" transform="translate(240.481 26.117)">
+      <path id="Path_754" data-name="Path 754" d="M3.2,18.852C10.767,12.268,20.769,1.523,42.727.05c11.418-.766,16.69,7.559,25.4,10.384,7.734,2.508,19.2-.636,22.905,2.524,7.719,6.584-33.025,9.262-48.308,9.262s-20.377,8.655-30.258,7.813S-4.362,25.436,3.2,18.852Z" transform="translate(4.188 0) rotate(8)" fill="#aaf0f9"/>
+      <g id="Mask_Group_14" data-name="Mask Group 14" transform="translate(0.001 4.867)" clip-path="url(#clip-path-2)">
+        <path id="Path_755" data-name="Path 755" d="M3.2,18.852C10.767,12.268,20.769,1.523,42.727.05c11.418-.766,16.69,7.559,25.4,10.384,7.734,2.508,19.2-.636,22.905,2.524,7.719,6.584-33.025,9.262-48.308,9.262s-20.377,8.655-30.258,7.813S-4.362,25.436,3.2,18.852Z" transform="translate(4.188 -4.867) rotate(8)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="snow-3" data-name="snow" transform="translate(676.122 20.867)">
+      <path id="Path_751-2" data-name="Path 751" d="M126.248,1.073C113.3-2.67,94.779-12.535,75.484-13.365,60-14.032,49.568-6.629,35.487-3.339,22.956-.411,6.428-1.745-.919,1.073-7.516,3.6-9.366,5.5-8.08,7.022c3.224,3.863,31.044,3.87,43.566,3.276,8.224-.39,46.11,8.459,70.724,6.053,18.772,1.019,5.157,36.311,13.35,34.887S159.194,10.6,126.248,1.073Z" transform="translate(8.462 25.788)" fill="#aaf0f9"/>
+      <g id="Mask_Group_13-2" data-name="Mask Group 13" transform="translate(2.474 0)" clip-path="url(#clip-path-3)">
+        <path id="Path_752-2" data-name="Path 752" d="M126.216,1.073C113.268-2.67,94.746-12.535,75.451-13.365c-15.486-.667-25.916,6.737-40,10.027C22.923-.411,6.395-1.745-.952,1.073-26.326,10.807,18.532,11.1,35.454,10.3c8.224-.39,46.11,8.459,70.724,6.053,18.772,1.019,5.157,36.311,13.35,34.887S159.161,10.6,126.216,1.073Z" transform="translate(6.668 25.282)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="snow-4" data-name="snow" transform="translate(727.348 120.796)">
+      <path id="Path_754-2" data-name="Path 754" d="M1.763,7.985C6.015,12.429,11.6,19.72,24.247,20.374c6.574.34,9.755-5.529,14.829-7.637,4.5-1.871,11.065.118,13.256-2.138,4.563-4.7-18.9-5.874-27.711-5.617S13.011-.685,7.3.066-2.49,3.541,1.763,7.985Z" transform="translate(55.236 20.189) rotate(172)" fill="#aaf0f9"/>
+      <g id="Mask_Group_14-2" data-name="Mask Group 14" transform="translate(2.697 2.602)" clip-path="url(#clip-path-4)">
+        <path id="Path_755-2" data-name="Path 755" d="M1.763,7.985C6.015,12.429,11.6,19.72,24.247,20.374c6.574.34,9.755-5.529,14.829-7.637,4.5-1.871,11.065.118,13.256-2.138,4.563-4.7-18.9-5.874-27.711-5.617S13.011-.685,7.3.066-2.49,3.541,1.763,7.985Z" transform="translate(52.539 17.587) rotate(172)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <path id="Path_757" data-name="Path 757" d="M-15.143,2.792C-11.824-5.87-5.74-.964.475-.964s12.2-3.91,15.485,4.524S3.4,13.632-1.276,33.15s-9.837-18.282-9.837-18.282S-18.462,11.455-15.143,2.792Z" transform="translate(101.415 131.314)" fill="#aaf0f9"/>
+  <g id="Mask_Group_15" data-name="Mask Group 15" transform="translate(84.284 127.515)" clip-path="url(#clip-path-5)">
+    <path id="Path_758" data-name="Path 758" d="M-15.143,2.792C-11.824-5.87-5.74-.964.475-.964s12.2-3.91,15.485,4.524S3.4,13.632-1.276,33.15s-9.837-18.282-9.837-18.282S-18.462,11.455-15.143,2.792Z" transform="translate(17.912 3.799)" fill="#fff"/>
+  </g>
+  <path id="Path_760" data-name="Path 760" d="M-3.9,2.937C1.51-2.674-.09-5.955,20.6-5.955S67.36-9.441,81.728-1.471s10.6,24.993-3.653,27.4c-6.2,1.045-10.476-14.311-19.3-17.783-10.944-4.306-26.575,2.573-34.049,0C11.5,3.587-9.316,8.548-3.9,2.937Z" transform="translate(131.755 130.235)" fill="#aaf0f9"/>
+  <g id="Mask_Group_16" data-name="Mask Group 16" transform="translate(127.001 122.439)" clip-path="url(#clip-path-6)">
+    <path id="Path_761" data-name="Path 761" d="M-3.9,2.937C1.51-2.674-.09-5.955,20.6-5.955S67.36-9.441,81.728-1.471s10.6,24.993-3.653,27.4c-6.2,1.045-10.476-14.311-19.3-17.783-10.944-4.306-26.575,2.573-34.049,0C11.5,3.587-9.316,8.548-3.9,2.937Z" transform="translate(3.973 8.577)" fill="#fff"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Phonics_and_Word_Recognition)">
+    <text id="Phonics_and_Word_Recognition-2" data-name="Phonics and Word Recognition" transform="translate(433.38 110.67)" fill="#fff" stroke="#fff" stroke-width="2" font-size="45" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-325.964" y="0">Phonics and Word Recognition</tspan></text>
+  </g>
+</svg>

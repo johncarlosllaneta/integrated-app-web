@@ -1,0 +1,70 @@
+<svg id="Grammar-2" data-name="Grammar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840.319" height="170.061" viewBox="0 0 840.319 170.061">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_753" data-name="Path 753" d="M19332.918,6997.91s-18.279-27.763-45.814-31.154-29.687,3.574-62.307,2.932-68.174-5.5-68.174-5.5l27.49-45.081s166.4,22.724,167.865,21.258Z" transform="translate(-19156.623 -6919.109)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_756" data-name="Path 756" d="M19538.789,6913.076s-14.9-6.107-37.7-8.856c-10.627-1.281-25.186,4.686-35.553,4.457-11.416-.252-17.957-6.6-17.957-6.6.365.366,9.16-14.294,8.795-14.294h82.418Z" transform="translate(-19447.576 -6887.786)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_753-2" data-name="Path 753" d="M19172.4,6970.135s15.135-17.979,37.93-20.173,24.576,2.313,51.58,1.9,56.436-3.559,56.436-3.559l-22.758-29.192s-137.75,14.715-138.965,13.765Z" transform="translate(-19156.621 -6919.108)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Path_756-2" data-name="Path 756" d="M19447.576,6905.4a78.734,78.734,0,0,1,21.66-6.17c6.1-.892,14.467,3.265,20.422,3.105a14.863,14.863,0,0,0,10.32-4.6c-.211.255-5.266-9.958-5.055-9.958h-47.348Z" transform="translate(-19447.576 -6887.786)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Path_759" data-name="Path 759" d="M19320.762,7011.834c-7.76-2.408-10.355,10.851-14.506,11.065-6.2.317-6.715-9.455-11.152-11.065s-5.865,4.992-6.6,4.625-9.9-2.2-10.631-2.565,0-16.493,0-16.493h42.887Z" transform="translate(-19277.549 -6997.401)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <path id="Path_762" data-name="Path 762" d="M19403.1,7002.525s-1.508,1.7-16.682,2.7-28.492-4.106-44.02,1.283-12.158,8.95-21.943,11.935-16.939.128-17.2,0,8.084-23.87,8.084-23.87l90.984-1.668Z" transform="translate(-19303.256 -6992.9)" fill="none"/>
+    </clipPath>
+    <filter id="Grammar" x="301.379" y="49.324" width="222" height="82" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Block" transform="translate(0 0)">
+    <g id="box" transform="translate(14.437 50.086)">
+      <rect id="Rectangle_384" data-name="Rectangle 384" width="791.519" height="93.509" rx="46.754" fill="#2fbfd7"/>
+      <rect id="Rectangle_385" data-name="Rectangle 385" width="768.85" height="70.84" rx="35.42" transform="translate(11.334 11.334)" fill="#1d9cad"/>
+    </g>
+    <g id="snow" transform="translate(641.903)">
+      <path id="Path_751" data-name="Path 751" d="M154.242,8.956c-15.64-5.781-38.014-21.016-61.321-22.3-18.707-1.03-31.305,10.4-48.315,15.485C29.469,6.664,9.5,4.6.629,8.956-30.021,23.988,24.165,24.441,44.606,23.2c9.934-.6,55.7,13.064,85.431,9.347,22.675,1.573,6.229,56.076,16.126,53.877S194.039,23.667,154.242,8.956Z" transform="translate(8.556 32.527)" fill="#aaf0f9"/>
+      <g id="Mask_Group_13" data-name="Mask Group 13" transform="translate(3.06)" clip-path="url(#clip-path)">
+        <path id="Path_752" data-name="Path 752" d="M154.242,8.956c-15.64-5.781-38.014-21.016-61.321-22.3-18.707-1.03-31.305,10.4-48.315,15.485C29.469,6.664,9.5,4.6.629,8.956-30.021,23.988,24.165,24.441,44.606,23.2c9.934-.6,55.7,13.064,85.431,9.347,22.675,1.573,6.229,56.076,16.126,53.877S194.039,23.667,154.242,8.956Z" transform="translate(6.277 31.746)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="snow-2" data-name="snow" transform="translate(504.545 26.117)">
+      <path id="Path_754" data-name="Path 754" d="M3.2,11.239c7.564,6.584,17.567,17.329,39.525,18.8,11.418.766,16.69-7.559,25.4-10.384,7.734-2.508,19.2.636,22.905-2.524,7.719-6.584-33.025-9.262-48.308-9.262S22.351-.784,12.469.058-4.362,4.654,3.2,11.239Z" transform="translate(95.291 29.798) rotate(172)" fill="#aaf0f9"/>
+      <g id="Mask_Group_14" data-name="Mask Group 14" transform="translate(4.076 4.867)" clip-path="url(#clip-path-2)">
+        <path id="Path_755" data-name="Path 755" d="M3.2,11.239c7.564,6.584,17.567,17.329,39.525,18.8,11.418.766,16.69-7.559,25.4-10.384,7.734-2.508,19.2.636,22.905-2.524,7.719-6.584-33.025-9.262-48.308-9.262S22.351-.784,12.469.058-4.362,4.654,3.2,11.239Z" transform="translate(91.214 24.931) rotate(172)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="snow-3" data-name="snow" transform="translate(0 20.867)">
+      <path id="Path_751-2" data-name="Path 751" d="M6.268,1.073C19.216-2.67,37.738-12.535,57.032-13.365c15.486-.667,25.916,6.737,40,10.027,12.531,2.928,29.059,1.594,36.406,4.412,6.6,2.531,8.447,4.423,7.161,5.949-3.224,3.863-31.044,3.87-43.566,3.276-8.224-.39-46.11,8.459-70.724,6.053C7.534,17.37,21.149,52.662,12.956,51.238S-26.678,10.6,6.268,1.073Z" transform="translate(23.217 25.788)" fill="#aaf0f9"/>
+      <g id="Mask_Group_13-2" data-name="Mask Group 13" transform="translate(0 0)" clip-path="url(#clip-path-3)">
+        <path id="Path_752-2" data-name="Path 752" d="M6.175,1.073C19.122-2.67,37.645-12.535,56.939-13.365c15.486-.667,25.916,6.737,40,10.027C109.467-.411,126-1.745,133.342,1.073,158.716,10.807,113.859,11.1,96.937,10.3c-8.224-.39-46.11,8.459-70.724,6.053C7.441,17.37,21.056,52.662,12.863,51.238S-26.771,10.6,6.175,1.073Z" transform="translate(22.664 25.282)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="snow-4" data-name="snow" transform="translate(57.733 120.796)">
+      <path id="Path_754-2" data-name="Path 754" d="M1.763,12.4C6.015,7.959,11.6.667,24.247.014,30.82-.326,34,5.543,39.075,7.652c4.5,1.871,11.065-.118,13.256,2.138,4.563,4.7-18.9,5.874-27.711,5.617S13.011,21.073,7.3,20.322-2.49,16.847,1.763,12.4Z" transform="translate(2.837 0) rotate(8)" fill="#aaf0f9"/>
+      <g id="Mask_Group_14-2" data-name="Mask Group 14" transform="translate(0.136 2.602)" clip-path="url(#clip-path-4)">
+        <path id="Path_755-2" data-name="Path 755" d="M1.763,12.4C6.015,7.959,11.6.667,24.247.014,30.82-.326,34,5.543,39.075,7.652c4.5,1.871,11.065-.118,13.256,2.138,4.563,4.7-18.9,5.874-27.711,5.617S13.011,21.073,7.3,20.322-2.49,16.847,1.763,12.4Z" transform="translate(2.701 -2.602) rotate(8)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <path id="Path_757" data-name="Path 757" d="M15.545,2.792C12.226-5.87,6.142-.964-.073-.964s-12.2-3.91-15.485,4.524S-2.993,13.632,1.678,33.15s9.837-18.282,9.837-18.282S18.864,11.455,15.545,2.792Z" transform="translate(738.5 131.314)" fill="#aaf0f9"/>
+  <g id="Mask_Group_15" data-name="Mask Group 15" transform="translate(712.822 127.515)" clip-path="url(#clip-path-5)">
+    <path id="Path_758" data-name="Path 758" d="M15.545,2.792C12.226-5.87,6.142-.964-.073-.964s-12.2-3.91-15.485,4.524S-2.993,13.632,1.678,33.15s9.837-18.282,9.837-18.282S18.864,11.455,15.545,2.792Z" transform="translate(24.897 3.799)" fill="#fff"/>
+  </g>
+  <path id="Path_760" data-name="Path 760" d="M89.933,2.937C84.52-2.674,86.12-5.955,65.426-5.955S18.669-9.441,4.3-1.471s-10.6,24.993,3.653,27.4c6.2,1.045,10.476-14.311,19.3-17.783,10.944-4.306,26.575,2.573,34.049,0C74.533,3.587,95.346,8.548,89.933,2.937Z" transform="translate(622.533 130.235)" fill="#aaf0f9"/>
+  <g id="Mask_Group_16" data-name="Mask Group 16" transform="translate(613.471 122.439)" clip-path="url(#clip-path-6)">
+    <path id="Path_761" data-name="Path 761" d="M89.933,2.937C84.52-2.674,86.12-5.955,65.426-5.955S18.669-9.441,4.3-1.471s-10.6,24.993,3.653,27.4c6.2,1.045,10.476-14.311,19.3-17.783,10.944-4.306,26.575,2.573,34.049,0C74.533,3.587,95.346,8.548,89.933,2.937Z" transform="translate(9.843 8.577)" fill="#fff"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Grammar)">
+    <text id="Grammar-3" data-name="Grammar" transform="translate(412.38 106.32)" fill="#fff" stroke="#fff" stroke-width="2" font-size="45" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-99.338" y="0">Grammar</tspan></text>
+  </g>
+</svg>
