@@ -5,11 +5,20 @@ if(sessionStorage.getItem("ID") === "1"){
 }else if(sessionStorage.getItem("ID") === "3"){
     
 }else if(sessionStorage.getItem("ID") === "4"){
-    
+    var titles=["Lesson 1:Nouns","Lesson 2:Pronouns","Lesson 3:Vowels and Consonant","Lesson 4:Verb Tenses:Past, Present,Future","Lesson 5:Adjectives", "Lesson 6:Root, Prefixes and Suffixes", "Lesson 7:Preposition"];
+    for(var temp= 1;temp<=7;temp++){
+        Populate(temp,titles[temp]);  
+    }
 }else if(sessionStorage.getItem("ID") === "5"){
-    
+    var titles=["Lesson 1:","Lesson 2:","Lesson 3:","Lesson 4:","Lesson 5:"];
+    for(var temp= 1;temp<=5;temp++){
+        Populate(temp,titles[temp]);  
+    }
 }else if(sessionStorage.getItem("ID") === "6"){
-    
+    var titles=["Lesson 1:Listening Comprehension Level 1","Lesson 2:Listening Comprehension Level 1","Lesson 3:Listening Comprehension Level 1","Lesson 4:Listening Comprehension Level 1","Lesson 5:Listening Comprehension Level 1"];
+    for(var temp= 1;temp<=5;temp++){
+        Populate(temp,titles[temp]);  
+    }
 }else if(sessionStorage.getItem("ID") === "7"){
   
     for(var temp= 1;temp<=5;temp++){
