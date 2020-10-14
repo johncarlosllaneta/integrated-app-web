@@ -136,6 +136,12 @@ video {
     margin-top: 90px;
 }
 
+iframe {
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 90px;
+}
 .container video {
     display: flex;
     justify-content: center;
