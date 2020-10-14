@@ -140,27 +140,27 @@ else if(sessionStorage.getItem("ID")==5 && sessionStorage.getItem("lessonID")==5
 
 
 //6
-else if(sessionStorage.getItem("ID")==5 && sessionStorage.getItem("lessonID")==1){
+else if(sessionStorage.getItem("ID")==6 && sessionStorage.getItem("lessonID")==1){
     url = 'https://www.youtube.com/embed/JSD-nq8iA1g?controls=0';
     youtubeVid(url);
 }
 
-else if(sessionStorage.getItem("ID")==5 && sessionStorage.getItem("lessonID")==2){
+else if(sessionStorage.getItem("ID")==6 && sessionStorage.getItem("lessonID")==2){
     url = "https://www.youtube.com/embed/RW9iXVpK4SA?controls=0";
     youtubeVid(url);
 }
 
-else if(sessionStorage.getItem("ID")==5 && sessionStorage.getItem("lessonID")==3){
+else if(sessionStorage.getItem("ID")==6 && sessionStorage.getItem("lessonID")==3){
     url = "https://www.youtube.com/embed/9ngxGjtAaGI?controls=0";
     youtubeVid(url);
 }
 
-else if(sessionStorage.getItem("ID")==5 && sessionStorage.getItem("lessonID")==4){
+else if(sessionStorage.getItem("ID")==6 && sessionStorage.getItem("lessonID")==4){
     url = "https://www.youtube.com/embed/Vk-pFf9V5rw?controls=0";
     youtubeVid(url);
 }
 
-else if(sessionStorage.getItem("ID")==5 && sessionStorage.getItem("lessonID")==5){
+else if(sessionStorage.getItem("ID")==6 && sessionStorage.getItem("lessonID")==5){
     url = "https://www.youtube.com/embed/IYwq1DUrc3E?controls=0";
     youtubeVid(url);
 }
