@@ -1,29 +1,54 @@
 if(sessionStorage.getItem("ID") === "1"){
+    var titles=["Oral Language 1","Oral Language 2","Oral Language 3","Oral Language 4","Oral Language 5"];
+    for(var temp= 1;temp<=titles.length;temp++){
+        Populate(temp,titles[temp-1]);
+    }
     
 }else if(sessionStorage.getItem("ID") === "2"){
+    var titles=["Songs","Rhymes","Poems","Stories","Writing"];
+    for(var temp= 1;temp<=titles.length;temp++){
+        Populate(temp,titles[temp-1]);
+    }
 
 }else if(sessionStorage.getItem("ID") === "3"){
+    var titles=[];
+    for(var temp= 1;temp<=titles.length;temp++){
+        Populate(temp,titles[temp-1]);
+    }
     
 }else if(sessionStorage.getItem("ID") === "4"){
+    var titles=["Nouns","Pronouns","Vowels and Consonant","Verb Tenses","Adjectives","Prefix and Suffix","Preposition"];
+    for(var temp= 1;temp<=titles.length;temp++){
+        Populate(temp,titles[temp-1]);
+    }
     
 }else if(sessionStorage.getItem("ID") === "5"){
+    var titles=["Homonyms","Homophones 1","Homophones 2","Synonyms and Antonyms","Vocabulary and Concept Development"];
+    for(var temp= 1;temp<=titles.length;temp++){
+        Populate(temp,titles[temp-1]);
+    }
     
 }else if(sessionStorage.getItem("ID") === "6"){
     
+    var titles=["Listening Comprehension 1","Listening Comprehension 2","Listening Comprehension 3","Listening Comprehension 4","Listening Comprehension 5"];
+    for(var temp= 1;temp<=titles.length;temp++){
+        Populate(temp,titles[temp-1]);
+    }
+    
 }else if(sessionStorage.getItem("ID") === "7"){
-  
-    for(var temp= 1;temp<=5;temp++){
-        Populate(temp,"Not Sure pa sa Data");
+    var titles=["Jack and the Beanstalk","The Five W's","The Stone Soup","The Ugly Duckling","The life cycle of a Butterfly"];
+    for(var temp= 1;temp<=titles.length;temp++){
+        Populate(temp,titles[temp-1]);
     }
 }else if(sessionStorage.getItem("ID") === "8"){
-    var titles=["Book 1: Rani's First Day At School","Book 2: Reba Wants Ice Cream","Book 3: Goby's noisy friend","The Clever Rabbit ","The Right Way School", "The Magic Mirror", "The Storybook Princess"];
+    var titles=["Rani's First Day At School","Reba Wants Ice Cream","Goby's noisy friend","The Clever Rabbit ","The Right Way School", "The Magic Mirror", "The Storybook Princess"];
     for(var temp= 1;temp<=7;temp++){
-        Populate(temp,titles[temp]);  
+        Populate(temp,titles[temp-1]);  
     }
 }else if(sessionStorage.getItem("ID") === "9"){
     var titles=["Parts of the Books","Print awareness","Mark it!","What We Like About Stories","What do you do with a Book"];
     for(var temp= 1;temp<=5;temp++){
-       
+        Populate(temp,titles[temp-1]);
     }
 }
 
@@ -77,7 +102,8 @@ document.body.appendChild(container);
 }
 
 function showIDLesson(id){
-    alert(id);
+    // alert(id);
+    sessionStorage.setItem("lessonID",id); 
     window.location.href = "/English Page/vid-eng.html";
 
 }
