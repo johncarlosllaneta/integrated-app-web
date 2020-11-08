@@ -1,5 +1,3 @@
-
-
 let url = "";
 
 if(sessionStorage.getItem("ID")==1 && sessionStorage.getItem("lessonID")==1){
@@ -25,6 +23,7 @@ else if(sessionStorage.getItem("ID")==1 && sessionStorage.getItem("lessonID")==4
 else if(sessionStorage.getItem("ID")==1 && sessionStorage.getItem("lessonID")==5){
     url = "https://www.youtube.com/embed/-J7HcVLsCrY?controls=0";
     youtubeVid(url);
+    createAssessmentBtn();
 }
 //2
 else if(sessionStorage.getItem("ID")==2 && sessionStorage.getItem("lessonID")==1){
@@ -50,6 +49,7 @@ else if(sessionStorage.getItem("ID")==2 && sessionStorage.getItem("lessonID")==4
 else if(sessionStorage.getItem("ID")==2 && sessionStorage.getItem("lessonID")==5){
     url = "https://www.youtube.com/embed/Sw2KZki-eaA?controls=0";
     youtubeVid(url);
+    createAssessmentBtn();
 }
 
 
@@ -109,6 +109,7 @@ else if(sessionStorage.getItem("ID")==4 && sessionStorage.getItem("lessonID")==6
 else if(sessionStorage.getItem("ID")==4 && sessionStorage.getItem("lessonID")==7){
     url = "https://www.youtube.com/embed/_VK-kXkXTBc?controls=0";
     youtubeVid(url);
+    createAssessmentBtn();
 }
 
 
@@ -136,6 +137,7 @@ else if(sessionStorage.getItem("ID")==5 && sessionStorage.getItem("lessonID")==4
 else if(sessionStorage.getItem("ID")==5 && sessionStorage.getItem("lessonID")==5){
     url= 'https://nationalueduph-my.sharepoint.com/:p:/g/personal/llanetaje_students_national-u_edu_ph/EY9D8dpGyPtAlCLvzZ8rCTAB09lybdl2iGr95YG2cThx7w?e=ADV7tI';
     powerpoint(url);
+    createAssessmentBtn();
 }
 
 
@@ -163,6 +165,7 @@ else if(sessionStorage.getItem("ID")==6 && sessionStorage.getItem("lessonID")==4
 else if(sessionStorage.getItem("ID")==6 && sessionStorage.getItem("lessonID")==5){
     url = "https://www.youtube.com/embed/IYwq1DUrc3E?controls=0";
     youtubeVid(url);
+    createAssessmentBtn();
 }
 
 
@@ -190,10 +193,12 @@ else if(sessionStorage.getItem("ID")==7 && sessionStorage.getItem("lessonID")==4
 else if(sessionStorage.getItem("ID")==7 && sessionStorage.getItem("lessonID")==5){
     url= 'https://nationalueduph-my.sharepoint.com/:p:/g/personal/llanetaje_students_national-u_edu_ph/Eewk_Bl_hghAqLi6kZFgl8QBP84NCKRx5-abtmLiPjtB3g?e=nMNVBJ';
     powerpoint(url);
+    createAssessmentBtn();
 }
 else if(sessionStorage.getItem("ID")==7 && sessionStorage.getItem("lessonID")==6){
     url= 'https://nationalueduph-my.sharepoint.com/:p:/g/personal/llanetaje_students_national-u_edu_ph/ESUNNZv3WfdBrShE2J-p0QgB7guJRxRvSBflVbqR3EHAIQ?e=aPEysF';
     powerpoint(url);
+
 }
 
 
@@ -228,6 +233,7 @@ else if(sessionStorage.getItem("ID")==8 && sessionStorage.getItem("lessonID")==6
 else if(sessionStorage.getItem("ID")==8 && sessionStorage.getItem("lessonID")==7){
     url= 'https://nationalueduph-my.sharepoint.com/:p:/g/personal/llanetaje_students_national-u_edu_ph/EV0F_Om9US9HqrS-5-n8WXgBetzMmDwMiLt4ok7aK175yA?e=Ii4OnE';
     powerpoint(url);
+    createAssessmentBtn();
 }
 
 //9
@@ -254,6 +260,7 @@ else if(sessionStorage.getItem("ID")==9 && sessionStorage.getItem("lessonID")==4
 else if(sessionStorage.getItem("ID")==9 && sessionStorage.getItem("lessonID")==5){
     url = "https://www.youtube.com/embed/oes1PE58WQE?controls=0";
     youtubeVid(url);
+    createAssessmentBtn();
 }
 
 else{
@@ -267,16 +274,9 @@ function youtubeVid(url){
     
     
     let framePane = document.createElement('iframe');
-    framePane.setAttribute("style","width:100%;height:80%");
+    framePane.setAttribute("style","width:100%;height:100%");
     framePane.setAttribute("src",url);
-    // framePane.setAttribute("frameborder","0");
-    // framePane.setAttribute("allow","accelerometer");
-    // framePane.setAttribute("allow","autoplay");
-    // framePane.setAttribute("allow","clipboard-write");
-    // framePane.setAttribute("allow","encrypted-media");
-    // framePane.setAttribute("allow","gyroscope");
-    // framePane.setAttribute("allow","picture-in-picture");
-    // framePane.setAttribute("allowfullscreen");
+
     
     var el = document.getElementById('marker');
     el.setAttribute("style","width:100%;height:100%");
@@ -287,11 +287,26 @@ function youtubeVid(url){
 
 function powerpoint(url){
     var el = document.getElementById('container');
-    // el.setAttribute("style","width:100%;height:100%");
-    el.innerHTML = '<iframe src="'+url+'/_layouts/15/Doc.aspx?sourcedoc={25063ca0-8135-448e-9bef-64f0ef613e66}&amp;action=embedview&amp;wdAr=1.4148802017654476" width="1089px" height="793px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>';
+    el.innerHTML = '<iframe src="'+url+'/_layouts/15/Doc.aspx?sourcedoc={25063ca0-8135-448e-9bef-64f0ef613e66}&amp;action=embedview&amp;wdAr=1.4148802017654476" width="100%" height="100%" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>';
 }
 
+function hi(){
+    window.location.href = "/English Page/assessment_english.html";
+}
 
+function createAssessmentBtn(){
+    var myDiv = document.getElementById("marker");          
+    // creating button element  
+    var button = document.createElement('BUTTON');  
+    // creating text to be 
+    //displayed on button 
+    var text = document.createTextNode("Assessment"); 
+    // appending text to button 
+    button.appendChild(text); 
+    button.onclick = hi;
+    // appending button to div 
+    myDiv.appendChild(button); ;  
+}
 
 
 
