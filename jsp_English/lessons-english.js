@@ -101,7 +101,7 @@ container_row.appendChild(container_column_desc);
 document.body.appendChild(container);
 }
 
-function showIDLesson(id){
+function showIDLesson(id,){
     // alert(id);
     sessionStorage.setItem("lessonID",id); 
     window.location.href = "/English Page/vid-eng.html";
